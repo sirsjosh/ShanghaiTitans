@@ -1,0 +1,32 @@
+.jumbotron {
+    background-image: url("https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/35363371_813119195549387_2180522533600624640_n.jpg?_nc_cat=0&oh=1162e21ba934bbce8b6a1f56e91109e4&oe=5C06FA4E");
+    background-size: cover;
+    
+}
+
+img{
+    width: 50px; 
+}
+
+.footer img{
+    width:30px;
+}
+
+.carousel-item img{
+   width: 700px;
+   height:525px;
+   margin: 0 auto;
+
+}
+
+.collapse a:hover{
+    cursor: pointer;
+}
+
+.footer li{
+    color:blue;
+}
+
+.footer li:hover{
+    cursor: pointer;
+}
